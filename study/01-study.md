@@ -8,8 +8,7 @@
 
 3、redis(ioredis):  https://github.com/luin/ioredis
 
-4、mogodb(mongoose)：https://www.cnblogs.com/xiaohuochai/p/7215067.html?
-utm_source=itdadao&utm_medium=referral
+4、mogodb(mongoose)：https://www.cnblogs.com/xiaohuochai/p/7215067.html?utm_source=itdadao&utm_medium=referral
 
 5、antd-design：https://ant.design/docs/react/introduce-cn
 
@@ -31,8 +30,7 @@ utm_source=itdadao&utm_medium=referral
 
 14、hapi（ajax请求）：https://segmentfault.com/a/1190000010143528
 
-15、nodemon.json(nodemon +NodeJs + koa2 文件修改自动重启服务器
-): https://blog.csdn.net/qq_31808899/article/details/80520332
+15、nodemon.json(nodemon +NodeJs + koa2 文件修改自动重启服务器): https://blog.csdn.net/qq_31808899/article/details/80520332
 
 16、styled-components: (直接写样式组件)： https://github.com/zeit/next.js/tree/canary/examples/with-styled-components https://www.styled-components.com/docs/basics
 
@@ -42,15 +40,21 @@ utm_source=itdadao&utm_medium=referral
 二、react相关：
 
 1、react官网: https://react.docschina.org/docs/hello-world.html
+
 2、react教程：https://segmentfault.com/a/1190000012921279
+
 3、组件化写法：https://segmentfault.com/a/1190000014682665
+
 4、理解redux：https://github.com/brickspert/blog/issues/22
+
 
 三、学习例子：
 
 两个使用next && typescript的例子，直接下载下来照着开发一遍
 
 1、width-typescript（简单使用）: https://github.com/zeit/next.js/tree/canary/examples/with-typescript
+
 2、custom-server-typescript（服务端node）：https://github.com/zeit/next.js/tree/canary/examples/custom-server-typescript
+
 
 
